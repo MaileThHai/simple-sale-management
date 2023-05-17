@@ -1,0 +1,54 @@
+ID Hoa don: 7375
+Thoi gian: 2023-05-03 06:07:52
+San Pham: 
+Pepsi, So luong: 2, Gia: 20000
+Tong cong: 40000
+---
+ID Hoa don: 9541
+Thoi gian: 2023-05-03 06:08:45
+San Pham: 
+Car, So luong: 1, Gia: 2000000
+Tong cong: 2000000
+---
+ID Hoa don: 7599
+Thoi gian: 2023-05-03 12:14:48
+San Pham: 
+Pen, So luong: 2, Gia: 10000
+Keo, So luong: 2, Gia: 20000
+Fanta, So luong: 2, Gia: 20000
+Tong cong: 100000
+---
+ID Hoa don: 9318
+Thoi gian: 2023-05-03 12:18:35
+San Pham: 
+Gao thom, So luong: 1, Gia: 100000
+Pen, So luong: 2, Gia: 10000
+Water, So luong: 3, Gia: 15000
+Tong cong: 165000
+---
+ID Hoa don: 9265
+Thoi gian: 2023-05-03 12:24:44
+San Pham: 
+Water, So luong: 2, Gia: 15000
+Tong cong: 30000
+---
+ID Hoa don: 3035
+Thoi gian: 2023-05-03 12:30:28
+San Pham: 
+Caffee, So luong: 2, Gia: 25000
+Tong cong: 50000
+---
+ID Hoa don: 5588
+Thoi gian: 2023-05-09 20:29:04
+San Pham: 
+Banh, So luong: 2, Gia: 10000
+Keo, So luong: 2, Gia: 20000
+Water, So luong: 1, Gia: 15000
+Tong cong: 75000
+---
+ID Hoa don: 7579
+Thoi gian: 2023-05-10 19:02:48
+San Pham: 
+Banh, So luong: 1, Gia: 10000
+Tong cong: 10000
+---

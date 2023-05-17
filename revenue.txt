@@ -1,0 +1,3 @@
+Doanh thu theo ngay: 430000
+Doanh thu theo thang: 430000
+Doanh thu theo nam: 430000
